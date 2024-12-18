@@ -1,2 +1,2 @@
 # resource shouldn't included
-resource/*
+_resource/*
