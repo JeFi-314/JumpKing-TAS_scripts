@@ -1,0 +1,18 @@
+Read TAS\Load_MB_with_continue.tas
+  10
+@24800,-1272200,0
+  10,L,J
+   3,L
+  22
+#leniency when slide onto slope
+  16,L,J
+   2,J
+  12
+   5,L
+   5,R,J
+   3,R
+  10
+#leniency when slide off from edge
+   3,L,J
+  20
+@24800,-1272200,0
