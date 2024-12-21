@@ -9,6 +9,6 @@ Read TAS\GotIB\6-Cursed Citadel.tas,START,END
 Read TAS\GotIB\7-Ghost Tower.tas,START,END
 Read TAS\GotIB\8-Yggdrasil.tas,START,END
 Read TAS\GotIB\9-The Olymp.tas,START,END
-Read TAS\Skip_Babe_Art.tas
+#Read TAS\Skip_Babe_Art.tas
 
 #Jumps under 8f (included) have same average speed in this map (bc it doesn't use #000000 but #708BDA as air block?)
