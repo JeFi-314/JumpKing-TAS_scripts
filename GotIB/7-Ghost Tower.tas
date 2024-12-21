@@ -2,15 +2,15 @@
   30,R,J
 #START
 #Ghost Tower
- #Screen-47 00:05:14.075(18475)
+ #Screen-47 00:05:13.140(18420)
   34
   15,R
-  20
+  75
   25,J
   51
   35,J
   36
- #Too early if dont land
+  #Too early if dont land
   24,R,J
   37
   30,L,J
@@ -31,7 +31,7 @@
    5
    1,J
    5
- #Too late if this jump fail cycle
+  #Too late if this jump fail cycle
    1,R,J
    5
    1,J
