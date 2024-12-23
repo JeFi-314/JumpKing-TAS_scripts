@@ -1,0 +1,14 @@
+#This run is edited from IL recording by CrazyNeighbour714
+#Tyrant Babe Nerfed (3315429653)
+#Ring=False, Boots=False
+Read TAS\Load_first_UGC_map_with_continue.tas
+Read TAS\SR simulating\Tyrant Nerfed (no item)\1-Paradisus Station.tas,START,END
+Read TAS\SR simulating\Tyrant Nerfed (no item)\2-Painted Worlds.tas,START,END
+Read TAS\SR simulating\Tyrant Nerfed (no item)\3-Ecstatic Dream.tas,START,END
+Read TAS\SR simulating\Tyrant Nerfed (no item)\4-Higan.tas,START,END
+Read TAS\SR simulating\Tyrant Nerfed (no item)\5-Brisk Frontier.tas,START,END
+Read TAS\SR simulating\Tyrant Nerfed (no item)\6-Insanity Chamber.tas,START,END
+Read TAS\SR simulating\Tyrant Nerfed (no item)\7-The Tower of Invisibility.tas,START,END
+Read TAS\SR simulating\Tyrant Nerfed (no item)\8-Disconnected Ruin.tas,START,END
+Read TAS\SR simulating\Tyrant Nerfed (no item)\9-The Tower of Frozen Genesis.tas,START,END
+Read TAS\Skip_Babe_Art.tas
