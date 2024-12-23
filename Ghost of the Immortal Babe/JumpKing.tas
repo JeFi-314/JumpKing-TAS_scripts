@@ -1,0 +1,14 @@
+#Ghost of the Immortal Babe (3290627190)
+Read TAS\Load_first_UGC_map_with_continue.tas
+Read TAS\Ghost of the Immortal Babe\1-Avernus.tas,START,END
+Read TAS\Ghost of the Immortal Babe\2-Styx.tas,START,END
+Read TAS\Ghost of the Immortal Babe\3-Sodom&Gomorrah.tas,START,END
+Read TAS\Ghost of the Immortal Babe\4-Library of Alexandria.tas,START,END
+Read TAS\Ghost of the Immortal Babe\5-Dimensional Rift.tas,START,END
+Read TAS\Ghost of the Immortal Babe\6-Cursed Citadel.tas,START,END
+Read TAS\Ghost of the Immortal Babe\7-Ghost Tower.tas,START,END
+Read TAS\Ghost of the Immortal Babe\8-Yggdrasil.tas,START,END
+Read TAS\Ghost of the Immortal Babe\9-The Olymp.tas,START,END
+#Read TAS\Skip_Babe_Art.tas
+
+#Jumps under 8f (included) have same average speed in this map (bc it doesn't use #000000 but #708BDA as air block?)
