@@ -1,6 +1,6 @@
 #Ghost of the Immortal Babe (3290627190)
 #Ring=False, Boots=False
-Read TAS\Load_first_UGC_map_with_continue.tas
+Read TAS\Load\UGC_continue.tas
 Read TAS\SR simulating\GotIB (no item)\1-Avernus.tas,START,END
 Read TAS\SR simulating\GotIB (no item)\2-Styx.tas,START,END
 Read TAS\SR simulating\GotIB (no item)\3-Sodom&Gomorrah.tas,START,END
