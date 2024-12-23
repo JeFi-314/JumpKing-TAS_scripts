@@ -1,0 +1,21 @@
+#Ghost of the Immortal Babe (3290627190)
+#Ring=False, Boots=False
+Read TAS\Load_first_UGC_map_with_continue.tas
+Read TAS\SR simulating\GotIB (no item)\1-Avernus.tas,START,END
+Read TAS\SR simulating\GotIB (no item)\2-Styx.tas,START,END
+Read TAS\SR simulating\GotIB (no item)\3-Sodom&Gomorrah.tas,START,END
+Read TAS\SR simulating\GotIB (no item)\4-Library of Alexandria.tas,START,END
+Read TAS\SR simulating\GotIB (no item)\5-Dimensional Rift.tas,START,END
+Read TAS\SR simulating\GotIB (no item)\6-Cursed Citadel.tas,START,END
+Read TAS\SR simulating\GotIB (no item)\7-Ghost Tower.tas,START,END
+Read TAS\SR simulating\GotIB (no item)\8-Yggdrasil.tas,START,END
+Read TAS\SR simulating\GotIB (no item)\9-The Olymp.tas,START,END
+Read TAS\Skip_Babe_Art.tas
+
+# auto switch block half cycle = 176f
+# 
+# Ghost Tower reach time:
+# (6*60+44.175)/0.017
+# (6*60+44.294)/0.017
+# (6*60+44.328)/0.017
+# (6*60+44.277)/0.017
