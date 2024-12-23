@@ -1,0 +1,15 @@
+#Babe of Transcension (3160964864)
+#Ring=False, Boots=False
+Read TAS\Load_first_UGC_map_with_continue.tas
+Read TAS\SR simulating\Transcension\1-Glittering Cave.tas,START,END
+Read TAS\SR simulating\Transcension\2-The Timeless Temple.tas,START,END
+Read TAS\SR simulating\Transcension\3-Swamp of Solitude.tas,START,END
+Read TAS\SR simulating\Transcension\4-Bright Grass.tas,START,END
+Read TAS\SR simulating\Transcension\5-Luminescent Darkness.tas,START,END
+Read TAS\SR simulating\Transcension\6-Windy Garden.tas,START,END
+Read TAS\SR simulating\Transcension\7-Good Sound House.tas,START,END
+Read TAS\SR simulating\Transcension\8-Consequences of Destruction.tas,START,END
+Read TAS\SR simulating\Transcension\9-Divine Sanctuary.tas,START,END
+Read TAS\SR simulating\Transcension\10-Ethereal Horizons.tas,START,END
+Read TAS\SR simulating\Transcension\11-The Tower of Interception.tas,START,END
+Read TAS\Skip_Babe_Art.tas
