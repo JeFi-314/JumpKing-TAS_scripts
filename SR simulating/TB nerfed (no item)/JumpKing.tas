@@ -1,6 +1,7 @@
 #This run is edited from IL recording by CrazyNeighbour714
 #Tyrant Babe Nerfed (3315429653)
 #Ring=False, Boots=False
+Read TAS\Press_start.tas
 Read TAS\Load\UGC_continue.tas
 Read TAS\SR simulating\TB Nerfed (no item)\1-Paradisus Station.tas,START,END
 Read TAS\SR simulating\TB Nerfed (no item)\2-Painted Worlds.tas,START,END
