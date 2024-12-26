@@ -80,7 +80,8 @@ class Input:
 
     
 def rewrite(file_path:str):
-    def unify_jump(inputs:list[Input]):
+    # make direction of jump unique for easy editing
+    def merge_jump(inputs:list[Input]):
         frame = 0
         direction = ''
         for input in inputs[::-1]:
@@ -111,7 +112,7 @@ def rewrite(file_path:str):
             if input.jump:
                 last_jump.append(input)
             elif last_jump:
-                lines.extend(unify_jump(last_jump))
+                lines.extend(merge_jump(last_jump))
                 last_jump = []
             
             if line.strip().upper().startswith(IGNORE):

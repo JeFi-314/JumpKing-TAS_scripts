@@ -9,17 +9,20 @@ def main():
     parser.add_argument('--source', type=str, help='Path to source file to process')
     parser.add_argument('--target', type=str, help='Path to the folder containing .tas files to process')
     args = parser.parse_args()
+    # remove trailing backslashes and surrounding quotes
+    args.source = args.source and args.source.rstrip('\\').strip('"').strip("'")
+    args.target = args.target and args.target.rstrip('\\').strip('"').strip("'")
 
     if not args.source:
         print("Please provide --source file.")
     elif not os.path.isfile(args.source):
-        print("source name is not file.")
+        print(f"Source name:`{args.source}` is not file.")
     elif not args.source.endswith('.tas'):
-        print("source file is not '.tas'.")
+        print(f"Source file:`{args.source}` is not '.tas'.")
     elif not args.target:
         print("Please provide --target folder.")
     elif not os.path.isdir(args.target):
-        print("target name is not folder.")
+        print(f"Target name:`{args.target}` is not folder.")
     else:
         ILs = read_ILs(args.source)
         update_ILs(args.target, ILs)
