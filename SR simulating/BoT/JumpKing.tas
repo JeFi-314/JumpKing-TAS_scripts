@@ -1,5 +1,6 @@
 #Babe of BoT (3160964864)
 #Ring=False, Boots=False
+Read TAS\Press_start.tas
 Read TAS\Load\UGC_continue.tas
 Read TAS\SR simulating\BoT\1-Glittering Cave.tas,START,END
 Read TAS\SR simulating\BoT\2-The Timeless Temple.tas,START,END
