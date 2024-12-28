@@ -5,8 +5,7 @@ Read TAS\Load_MB_with_continue.tas
    3,L
   22
 #leniency when slide onto slope
-  16,L,J
-   2,J
+  18,L,J
   12
    5,L
    5,R,J

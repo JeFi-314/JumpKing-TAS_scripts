@@ -1,21 +1,21 @@
 #Empty
-  1,J
-  5
-  2,J
-  7
-  3,J
-  9
-  4,J
+   1,J
+   5
+   2,J
+   7
+   3,J
+   9
+   4,J
   11
-  5,J
+   5,J
   13
-  6,J
+   6,J
   15
-  7,J
+   7,J
   17
-  8,J
+   8,J
   19
-  9,J
+   9,J
   20
   10,J
   22
@@ -69,3 +69,40 @@
   68
   35,J
   69
+
+#air/total time ratio
+ 1f:    5/6 = 0.83 (= 2.91 pixel/tick)
+ 2f:    7/9 = 0.77 (= 2.72 pixel/tick)
+ 3f:   9/12 = 0.75 (= 2.62 pixel/tick)
+ 4f:  11/15 = 0.73 (= 2.56 pixel/tick)
+ 5f:  13/18 = 0.72 (= 2.52 pixel/tick)
+ 6f:  15/21 = 0.71 (= 2.5  pixel/tick)
+ 7f:  17/24 = 0.70 (= 2.47 pixel/tick)
+ 8f:  19/27 = 0.70 (= 2.46 pixel/tick)
+ 9f:  20/29 = 0.68 (= 2.41 pixel/tick)
+10f:  22/32 = 0.68 (= 2.40 pixel/tick)
+11f:  24/35 = 0.68 (= 2.4  pixel/tick)
+12f:  26/38 = 0.68 (= 2.39 pixel/tick)
+13f:  28/41 = 0.68 (= 2.39 pixel/tick)
+14f:  30/44 = 0.68 (= 2.38 pixel/tick)
+15f:  32/47 = 0.68 (= 2.38 pixel/tick)
+16f:  34/50 = 0.68 (= 2.38 pixel/tick)
+17f:  36/53 = 0.67 (= 2.37 pixel/tick)
+18f:  37/55 = 0.67 (= 2.35 pixel/tick)
+19f:  39/58 = 0.67 (= 2.35 pixel/tick)
+20f:  41/61 = 0.67 (= 2.35 pixel/tick)
+21f:  43/64 = 0.67 (= 2.35 pixel/tick)
+22f:  45/67 = 0.67 (= 2.35 pixel/tick)
+23f:  47/70 = 0.67 (= 2.34 pixel/tick)
+24f:  49/73 = 0.67 (= 2.34 pixel/tick)
+25f:  51/76 = 0.67 (= 2.34 pixel/tick)
+26f:  53/79 = 0.67 (= 2.34 pixel/tick)
+27f:  54/81 = 0.66 (= 2.33 pixel/tick)
+28f:  56/84 = 0.66 (= 2.33 pixel/tick)
+29f:  58/87 = 0.66 (= 2.33 pixel/tick)
+30f:  60/90 = 0.66 (= 2.33 pixel/tick)
+31f:  62/93 = 0.66 (= 2.33 pixel/tick)
+32f:  64/96 = 0.66 (= 2.33 pixel/tick)
+33f:  66/99 = 0.66 (= 2.33 pixel/tick)
+34f: 68/102 = 0.66 (= 2.33 pixel/tick)
+35f: 69/104 = 0.66 (= 2.32 pixel/tick)
