@@ -1,4 +1,5 @@
-#Normal Gravity
+#You will land a bit later
+#bc different rounding result of Y-axis value (positive) on screen1
   1,J
   7
   2,J
