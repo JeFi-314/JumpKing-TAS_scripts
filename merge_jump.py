@@ -10,6 +10,9 @@ def main():
     parser.add_argument('--file', type=str, help='Path to source file to process')
     parser.add_argument('--folder', type=str, help='Path to the folder containing .tas files to process')
     args = parser.parse_args()
+    args.file = args.file and args.file.rstrip('\\').strip('"').strip("'")
+    args.folder = args.folder and args.folder.rstrip('\\').strip('"').strip("'")
+
 
     if args.file:
         if not os.path.isfile(args.file):
