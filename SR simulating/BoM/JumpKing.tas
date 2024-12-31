@@ -1,0 +1,13 @@
+#Babe of Memories (3164493186)
+#Ring=False, Boots=False
+Read TAS\Press_start.tas
+Read TAS\Load\UGC_continue.tas
+Read TAS\SR simulating\BoM\1-Tinycrown Woods.tas,START,END
+Read TAS\SR simulating\BoM\2-Antique Ruin.tas,START,END
+Read TAS\SR simulating\BoM\3-Colossal Cube.tas,START,END
+Read TAS\SR simulating\BoM\4-Yummyburg.tas,START,END
+Read TAS\SR simulating\BoM\5-Eternal Frontier.tas,START,END
+Read TAS\SR simulating\BoM\6-True Pass.tas,START,END
+Read TAS\SR simulating\BoM\7-Our Memories.tas,START,END
+Read TAS\SR simulating\BoM\8-The Tower of Symmetry.tas,START,END
+Read TAS\Skip_Babe_Art.tas
