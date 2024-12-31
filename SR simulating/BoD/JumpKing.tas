@@ -1,0 +1,16 @@
+#Babe of Dimension (3164094301)
+#Ring=False, Boots=False
+Read TAS\Press_start.tas
+Read TAS\Load\UGC_continue.tas
+Read TAS\SR simulating\BoD\1-Ashen Catacomb.tas,START,END
+Read TAS\SR simulating\BoD\2-Fury of Vulcanus.tas,START,END
+Read TAS\SR simulating\BoD\3-Hollow Pillar.tas,START,END
+Read TAS\SR simulating\BoD\4-The Abyss.tas,START,END
+Read TAS\SR simulating\BoD\5-Purple Ruin.tas,START,END
+Read TAS\SR simulating\BoD\6-Digital Frontier.tas,START,END
+Read TAS\SR simulating\BoD\7-The Mire of Greed.tas,START,END
+Read TAS\SR simulating\BoD\8-The Haunted Tower.tas,START,END
+Read TAS\SR simulating\BoD\9-Magnetic Skyscraper.tas,START,END
+Read TAS\SR simulating\BoD\10-Stellar Interceptor.tas,START,END
+Read TAS\SR simulating\BoD\11-The Tower of Light.tas,START,END
+Read TAS\Skip_Babe_Art.tas
