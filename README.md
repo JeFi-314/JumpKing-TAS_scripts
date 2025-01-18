@@ -1,6 +1,6 @@
-# JumpKing-TAS Scripts
+# JumpKing TAS Scripts
 
-I will update all my Tool-Assisted Speedrun (TAS) scripts for Jump King here. You can also find useful Python scripts and game values here.
+I will update my all Tool-Assisted Speedrun (TAS) scripts for Jump King here. You can also find useful Python scripts and game values here.
 
 > **Note:** This repository is placed in a subfolder named `TAS` within the Jump King folder.
 
@@ -28,7 +28,9 @@ Contains commonly used scripts for loading maps from the main menu (excluding th
 
 ### Constants Folder (`constants`)
 
-Contains game values and sample test scripts.
+Contains game values and sample test scripts. 
+
+- Only have in-air-time values for each power jumps in different gravitys currently.
 
 ### General TAS Scripts (Root Folder)
 
@@ -39,3 +41,6 @@ Scripts that do not belong to the `Load` folder. For example:
 ### Python Scripts (Root Folder)
 
 Python scripts designed to help format and update the TAS scripts.
+
+
+
