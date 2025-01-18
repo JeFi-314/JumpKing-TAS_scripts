@@ -11,6 +11,3 @@ Read TAS\Ghost of the Immortal Babe\7-Ghost Tower.tas,START,END
 Read TAS\Ghost of the Immortal Babe\8-Yggdrasil.tas,START,END
 Read TAS\Ghost of the Immortal Babe\9-The Olymp.tas,START,END
 Read TAS\Skip_Babe_Art.tas
-
-# Jumps under 8f (included) have same average speed in this map
-# (bc it doesn't use #000000 but #708BDA as air block?)
